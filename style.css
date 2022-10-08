@@ -1,0 +1,9 @@
+.black-blok{
+   width: 400px;
+   height: 250px;
+   background-color: black;
+}
+body{
+    display: flex;
+    justify-content: center;
+}
